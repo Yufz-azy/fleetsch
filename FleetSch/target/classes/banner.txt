@@ -1,0 +1,2 @@
+Application Version: ${jeethink.version}
+Spring Boot Version: ${spring-boot.version}
